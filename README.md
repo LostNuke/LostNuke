@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hello There!</h1>
+  <img alt="Fox Waving" src="https://gifimage.net/wp-content/uploads/2017/10/cute-transparent-gif-10.gif"/>
   <h2>I am LostNuke!</h2>
   <h4>I'm a JS developer and currently learning more about Web Development</h4>
   <hr>
