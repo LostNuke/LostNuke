@@ -8,20 +8,16 @@
 ### 🛠 My Tools and Languages
 <div align="center">
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript"> </a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python"> </a>
   <a href="#"><img alt="VisualStudioCode" src="https://img.shields.io/badge/VSCode-ff69b4?style=for-the-badge&logo=visual-studio-code"> </a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java"> </a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-ff69b4?style=for-the-badge&logo=intellij-idea" ></a>
 </div>
 
-### 💻 My Specs
-- Intel Core i7 6700
-- 24GB Ram
-- NVIDIA GTX 1060 3GB
-
 ### 🍜 About Me
-- I am 17 years old student, that enjoys programming.
+- I am 18 years old comp sci student, that enjoys programming.
 - I have created Discord Bots, Minecraft Plugins and Software.
-- Currently I am learning more about Web Development, C++ and Rust
+- Currently I am learning more about Web Development and C++
 - IF you have questions: [Nikroosta@outlook.de](mailto:Nikroosta@outlook.de)
 
 ### 🖨 Stats
