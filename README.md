@@ -15,7 +15,7 @@
 </div>
 
 ### 🍜 About Me
-- I am 18 years old comp sci student, that enjoys programming.
+- I am 19 years old comp sci student, that enjoys programming.
 - I have created Discord Bots, Minecraft Plugins and Software.
 - Currently I am learning more about Web Development and C++
 - IF you have questions: [Nikroosta@outlook.de](mailto:Nikroosta@outlook.de)
