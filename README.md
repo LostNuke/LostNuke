@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello There!</h1>
-  <img alt="Fox Waving" src="https://gifimage.net/wp-content/uploads/2017/10/cute-transparent-gif-10.gif"/>
+  <img alt="Fox Waving" src="https://media.tenor.com/TeuauSWtIuEAAAAi/dakooters-dkooters.gif" height="300"/>
   <h2>I am LostNuke!</h2>
   <hr>
 </div>
